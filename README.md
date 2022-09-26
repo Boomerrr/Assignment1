@@ -4,9 +4,9 @@ Task 1
 
 Visualization there is 35 figures   
 
-one are the path   
+One is the path   
 
-others are scan result
+Others are scan result
  
 Task 3
 
