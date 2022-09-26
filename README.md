@@ -1,17 +1,17 @@
-# Assignment1
+Assignment1
 
-#Task 1  
+Task 1  
 
-#Visualization there is 35 figures   
+Visualization there is 35 figures   
 
-#one is the path   
+one is the path   
 
-#others are scan result
+others are scan result
  
-#Task 3
+Task 3
 
-#The shortest path   
+The shortest path   
 
-#Through Dijkstra to find out the shortest path  
+Through Dijkstra to find out the shortest path  
 
-#All of the work is done by Pycharm in Windows 
+All of the work is done by Pycharm in Windows 
